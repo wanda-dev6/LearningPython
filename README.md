@@ -14,3 +14,5 @@ Write a program that asks for the user's name on the console and after the user 
 Write a program that displays the result of the following arithmetic operation on the screen.
 
 **Exercise_5:**
+
+**Exercise_6:**
