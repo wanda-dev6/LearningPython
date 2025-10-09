@@ -16,3 +16,7 @@ Write a program that displays the result of the following arithmetic operation o
 **Exercise_5:**
 
 **Exercise_6:**
+
+**Exercise_7:**
+
+**Exercise_8:**
