@@ -21,6 +21,10 @@ Write a program that displays the result of the following arithmetic operation o
 
 **Exercise_8:**
 
-lla
-
 **Exercise_9:**
+
+**Exercise_10:**
+
+**Exercise_11:**
+
+**Exercise_12:**
