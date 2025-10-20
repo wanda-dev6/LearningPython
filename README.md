@@ -1,6 +1,7 @@
 # LearningPython
 learning python whith exercise diary
 
+
 **Exercise_1:**
 Write a program that displays the string Hello World! on the screen.
 
