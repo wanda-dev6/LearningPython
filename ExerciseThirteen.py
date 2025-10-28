@@ -1,0 +1,6 @@
+#edad=int(input("¿Que edad tienes?"))
+#number=int(input("¿Cual es tu numero de celular"))
+#print(f"hola {name}, \ntienes {edad} \ny tu numero de celular es {number}")
+name=str(input("¿Como te llamas?"))
+number=int(input("dame un numero"))
+print(f"{name}\n"*number)
