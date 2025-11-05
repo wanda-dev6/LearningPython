@@ -6,6 +6,6 @@ ganancia = capital-investment
 print(f"la ganancia obtenida es de: {ganancia}")
 
 
-
+uwu
 
 
