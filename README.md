@@ -16,7 +16,7 @@ Write a program that displays the result of the following arithmetic operation o
 
 **Exercise_5:*** wff ggtyt dffrtt
 
-**Exercise_6:**ww
+**Exercise_6:*uwu
 
 **Exercise_7:**
 
