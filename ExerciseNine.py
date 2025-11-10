@@ -9,3 +9,4 @@ print(f"la ganancia obtenida es de: {ganancia}")
 uwu
 
 
+:3
