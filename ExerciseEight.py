@@ -7,3 +7,4 @@ print(f"hola {name} el cociente es {Cociente} y el residuo es {Residuo}").
 
 
 
+uwu
