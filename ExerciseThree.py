@@ -7,3 +7,4 @@ print("!hola "+
       "¡" + " usted tiene " +
       Age + " pertenece a la etnia " + Etnia)
 
+:3
